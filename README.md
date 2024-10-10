@@ -16,7 +16,7 @@
   - [Contacts](#contacts)
 
   ## Installation
-  You can install the app by accessing the website [J.A.T.E.](https://text-editor-1-8vuc.onrender.com) and clicking the button labeled "Install" on the top left corner of the screen.
+  You can install the app by accessing the website, which you can do by clicking [here](https://text-editor-1-8vuc.onrender.com), and clicking the button labeled "Install" on the top left corner of the screen.
 
   ## Usage
   To write down and save text; use it to take notes, draft out sample code, etc.

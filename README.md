@@ -16,7 +16,7 @@
   - [Contacts](#contacts)
 
   ## Installation
-  You can install the app by accessing the website and clicking the button labeled "Install" on the top left corner of the screen.
+  You can install the app by accessing the website on Render and clicking the button labeled "Install" on the top left corner of the screen.
 
   ## Usage
   To write down and save text; use it to take notes, draft out sample code, etc.
@@ -25,7 +25,7 @@
 This project is licensed under the MIT license.
 
   ## Contributions
-  If there's anything you think the app could do better, feel free to access the public GitHub repo.
+  If there's anything you think the app could do better, feel free to access the public GitHub repo. Any and all contributions are greatly appreciated!
 
   ## Testing
   N/A
